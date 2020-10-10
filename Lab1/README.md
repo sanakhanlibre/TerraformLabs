@@ -1,0 +1,1 @@
+* Lab1 - 3 Tier Setup (FrontEnd, API, DB) in the same Availability Zone

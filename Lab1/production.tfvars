@@ -1,0 +1,5 @@
+region = "ap-southeast-2"
+availability_zone = "ap-southeast-2a"
+vpc_cidr = "10.0.0.0/16"
+public_subnet_cidr = "10.0.0.0/24"
+private_subnet_cidr = "10.0.16.0/20"
