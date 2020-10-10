@@ -1,0 +1,1 @@
+* Lab2 - 2 Tier Setup (FrontEnd, API) in two Availability Zones
